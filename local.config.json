@@ -288,11 +288,11 @@
     },
     "liteservers": [
         {
-            "ip": -1468571662,
-            "port": 8191,
+            "ip": -1655010977,
+            "port": 29388,
             "id": {
                 "@type": "pub.ed25519",
-                "key": "JHkPvZocsnEN0GcwRuAMU1F85v/MFtS7pTb40vuXvAQ="
+                "key": "m/2DOlov4F7UaAbTSU3Vn9tu+9jzbuZ2lX2j9OJedFo="
             }
         }
     ],
@@ -306,9 +306,9 @@
             "file_hash": "XplPz01CXAps5qeSWUtxcyBfdAo5zVb1N979KLSKD24="
         },
         "init_block": {
-            "root_hash": "GitfPybHnwrewFL7eLW9ddvBxh0Yuj1Q3dk0ugUqHrc=",
-            "seqno": 35820999,
-            "file_hash": "sEPeCG928+ud+eIuwsy+5QxaXyGdiL3e45O9NtfcWP0=",
+            "root_hash": "o58vVEKwcvvDl+b+9kCXvbU+Xarny02IEUCB+7skXNs=",
+            "seqno": 35907786,
+            "file_hash": "I9rZQO7A2X0ODw5mOjyScYYwSVd9Dc1xQEpxiTsMrZ8=",
             "workchain": -1,
             "shard": -9223372036854775808
         },
